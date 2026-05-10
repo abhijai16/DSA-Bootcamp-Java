@@ -4,9 +4,9 @@
 
 ## Easy
 - [Add Binary](https://leetcode.com/problems/add-binary/)
-- [Single Number](https://leetcode.com/problems/single-number/)
+- [Single Number](https://leetcode.com/problems/single-number/) Done
 - [Reverse Bits](https://leetcode.com/problems/reverse-bits/)
-- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
+- [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) Done
 - [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
